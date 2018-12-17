@@ -2,7 +2,7 @@
 
 # This is a command line client that does all the actual tic commands
 # 
-# author : Scott Chacon (schacon@gmail.com)
+# author : Scott Chacon (isaac)
 #
 
 require 'rubygems'
